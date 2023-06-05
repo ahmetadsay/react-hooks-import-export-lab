@@ -1,3 +1,6 @@
+
+export { username, city, image }
+
 const username = "Liza";
 const city = "New York";
 
